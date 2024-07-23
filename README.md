@@ -1,2 +1,2 @@
 ## Hi there 👋
-(https://github-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?aLexa163-JV=anuraghazra&hide=contribs,prs)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?aLexa163-JV={aLexa163-JV}&theme={radical}
