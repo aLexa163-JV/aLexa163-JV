@@ -9,4 +9,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aLexa163-JV&theme=vision_friendly_dark)
 
 
-https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1
+https://visitor-badge.laobi.icu/badge?page_id=aLexa163-JV.visitor-badge.issue.1
