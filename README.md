@@ -10,10 +10,16 @@
 
 🔥 Моя статистика :
 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLexa163-JV&theme=nightowl)
+</div>
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aLexa163-JV&theme=nightowl)
+</div>
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=aLexa163-JV)
+</div>
 
 
 
