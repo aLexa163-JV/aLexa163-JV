@@ -11,12 +11,12 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLexa163-JV&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLexa163-JV&theme=darcula)
 </div>
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aLexa163-JV&theme=ayu-mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aLexa163-JV&theme=darcula)
 </div>
 
 
