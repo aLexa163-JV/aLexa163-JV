@@ -1,3 +1,4 @@
+<h1 align="center">
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет!👋Меня зовут Алексей!)](https://git.io/typing-svg)
 
 Обо мне:
