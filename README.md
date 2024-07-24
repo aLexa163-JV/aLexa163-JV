@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=aLexa163-JV)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLexa163-JV&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLexa163-JV&theme=vision-friendly-dark_icons=true)
 
 
 
