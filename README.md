@@ -6,7 +6,7 @@
 
 Обо мне:
 
-<span style="color: green"> Some green text </span>
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 Я начинающий Backend разработчик. С июля 2024 года начал изучать Java на курсах Skypro. <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
 </p>
