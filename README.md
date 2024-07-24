@@ -3,4 +3,4 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aLexa163-JV&theme=codeSTACKr)    
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aLexa163-JV&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aLexa163-JV&theme=midnight_purple)
