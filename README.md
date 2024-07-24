@@ -7,3 +7,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aLexa163-JV&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aLexa163-JV&theme=vision_friendly_dark)
+
+
+https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1
