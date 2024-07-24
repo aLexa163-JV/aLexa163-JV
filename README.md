@@ -6,7 +6,7 @@
 
 Обо мне:
 
-Я начинающий `Backend разработчик`. С июля 2024 года начал изучать Java на курсах Skypro. <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
+Я начинающий **`Backend разработчик`**. С июля 2024 года начал изучать **Java** на курсах Skypro. <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
 </p>
 
 :chart_with_upwards_trend: Моя статистика :
@@ -19,14 +19,20 @@
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aLexa163-JV&theme=react)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aLexa163-JV&theme=ocean-dark&locale=ru)](https://git.io/streak-stats)
+
 </div>
 
 
 <div align="center">
-  
+
+
 ![](https://komarev.com/ghpvc/?username=aLexa163-JV)
 
 </div>
+
+
 
 
 
