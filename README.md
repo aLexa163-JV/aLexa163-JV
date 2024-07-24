@@ -5,6 +5,7 @@
 </div>
 
 Обо мне:
+<span style="color: green"> Some green text </span>
 
 Я начинающий Backend разработчик. С июля 2024 года начал изучать Java на курсах Skypro. <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
 </p>
