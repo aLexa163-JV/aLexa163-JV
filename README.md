@@ -8,9 +8,11 @@
 
 Я начинающий **`Backend разработчик`**. С июля 2024 года начал изучать **Java** на курсах Skypro. 
 
-Skills:
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
-</p>
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 :chart_with_upwards_trend: Моя статистика :
 
